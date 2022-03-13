@@ -1,0 +1,17 @@
+{
+    "name": "fbvendor/grathapi",
+    "description": "he Graph API is the primary way for applications to read and write Facebook social graph data. All of our SDKs and products interact with the Graph API. The rest of our APIs are extensions of the Graph API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Sergey Aleksanyan",
+        "email": "sergey93051@mail.ru"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Fbvendor\\Grathapi\\": "src/"
+        }
+    },
+    "require": {}
+}
