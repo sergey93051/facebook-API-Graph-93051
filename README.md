@@ -22,7 +22,7 @@
   
  Simple GET example of a page profile.
  
- 
+![Screenshot from 2022-03-14 18-28-52](https://user-images.githubusercontent.com/49534288/158193284-df2c542b-029e-4996-8a5d-d645ae0030e5.png)
  
    
  
