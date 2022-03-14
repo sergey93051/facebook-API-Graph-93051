@@ -13,5 +13,18 @@
             "Fbvendor\\Grathapi\\": "src/"
         }
     },
-    "require": {}
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Fbvendor\\Grathapi\\Providers\\FbFacadeServiceProvider",
+                "Fbvendor\\Grathapi\\Providers\\FbpublishesServiceProvider"
+            ],
+            "aliases": {
+                "Fb": "Fbvendor\\Grathapi\\Facades\\Fb"
+            }
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    }
 }
